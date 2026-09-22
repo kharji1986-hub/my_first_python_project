@@ -1,8 +1,8 @@
-# my_first_python_project
+# My_First_Python_Project
 
-this is my first python project.
+This is my first Python project.
 
-the program asks the user for:
+The program asks the user for:
 
 - Name
 
