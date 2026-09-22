@@ -8,4 +8,4 @@ The program asks the user for:
 
 - Age
 
-then it prints a simple greeting.
+Then it prints a simple greeting.
