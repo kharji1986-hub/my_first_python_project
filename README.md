@@ -4,8 +4,8 @@ this is my first python project.
 
 the program asks the user for:
 
--name
+- Name
 
--age
+- Age
 
 then it prints a simple greeting.
